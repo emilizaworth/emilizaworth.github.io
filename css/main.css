@@ -2,25 +2,25 @@
 /* ----------------------------------------------------------*/
 
 * {
-  margin: 0;
-  padding: 0;
+  margin: 1;
+  padding: 2;
 }
 
 html, body { height: 100%; }
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Adelle, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  background-color: #fdfdfd;
+  background-color: #FAF0E6;
 }
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
 a         { color: #2a7ae2; text-decoration: none; }
-a:hover   { color: #000; text-decoration: underline; }
-a:visited { color: #205caa; }
+a:hover   { color: #008080; text-decoration: underline; }
+a:visited { color: #D8BFD8; }
 
 /* Utility */
 
