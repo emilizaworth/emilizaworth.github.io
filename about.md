@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<img src="https://scontent-a-ord.xx.fbcdn.net/hphotos-xaf1/t1.0-9/10415658_10202201033537315_7841282105588628922_n.jpg" alt="mother of dragons" height="300" width="300" border="5" border-color="#CD853F">
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+My name is Emily Worthington. I recently graduated from The University of Texas at Austin with a BA degree in Internationl Relations and Global Studies. I started working full-time with MakerSquare in April. In my free time, I am playing with my dog Imogene, getting in a good work out, dancing at Barbarella, or traveling across the state.
+Fun Facts
+
+I went skydiving when I turned 18.
+I lived in Switzerland last summer.
+I've been a vegetarian for four years.
+I was asked to be on The Tonight Show when I was 7.

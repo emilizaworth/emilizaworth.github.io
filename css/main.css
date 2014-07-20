@@ -9,11 +9,11 @@
 html, body { height: 100%; }
 
 body {
-  font-family: Calisto MT, Helvetica, sans-serif;
+  font-family: Adelle, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
-  background-color: #FFFAF0;
+  background-color: #F5F5F5;
 }
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
@@ -41,8 +41,10 @@ a:visited { color: #D8BFD8; }
 /* Site header */
 
 .site-header {
-  border-top: 5px solid #333;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 5px solid #CD853F;
+  border-bottom: 5px solid #CD853F;
+  border-left:5px solid #CD853F;
+  border-right:5px solid #CD853F;
   min-height: 56px;
   background-image:url('http://3.bp.blogspot.com/-rVIjxsJOGY0/TsakYMtewQI/AAAAAAABPyo/meRHPUnnlto/s1600/Charlotte+Taylor+Anthropologie+Fire+Ants+Wallpaper+2.jpeg');
   background-color: #FFFAF0;
